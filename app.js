@@ -286,33 +286,12 @@
 
 // console.log(tree);
 // task5baslasdi
-// let str = "Zeyneb Qeybullayeva";
-// let count = 0;
+let str = "Zeyneb Qeybullayeva";
+let count = 0;
 
-// for (let i = 0; i < str.length; i++) {
-  
-//   console.log(str[i]);
-// }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+for (let i = 0; i < str.length; i++) {
+  console.log(str[i]);
+}
 
 // js 1 saatliq yazi
 // [8,4,6,2,2,3]=>[4,2,4,2,3] bir birinden cixardaraq ilerleme metodlari
@@ -345,8 +324,6 @@
 // let arr=["zeyneb","sudabe"]
 // let a="zeyneb";
 // let b="sudabe";
-
-
 
 // 1.Semantic elementlər nə üçün istifadə olunur? Hansıları tanıyırsız?
 // footer,section,nav,header,articile,img ozune aid olan butun contetleri qebul edir
